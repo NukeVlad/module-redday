@@ -67,8 +67,8 @@
 	            <td align="left">
 	                <input type="hidden" value="{day}" name="day" />
 	                <input type="hidden" value="{month}" name="month" />
-	                <input class="btn btn-primary" type="submit" value="&nbsp;Save&nbsp;" name="Submit1" />&nbsp;
-	                <input type="reset" class="btn btn-reset" value="&nbsp;Reset&nbsp;" name="Reset1" />
+	                <input class="btn btn-primary" type="submit" value="&nbsp;{LANG.reddaySave}&nbsp;" name="Submit1" />&nbsp;
+	                <input type="reset" class="btn btn-reset" value="&nbsp;{LANG.reddayReset}&nbsp;" name="Reset1" />
 	            </td>
 	        </tr>
 	    </tbody>
