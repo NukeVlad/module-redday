@@ -36,3 +36,5 @@ $lang_module['redirect_to_home'] = 'Click để chuyển về trang chủ';
 
 $lang_module['error_month2'] = 'Lỗi: Tháng 2 không có ngày thứ %s';
 $lang_module['error_month'] = 'Lỗi: Tháng % không có ngày thứ %s';
+$lang_module['reddaySave'] = 'kỷ lục';
+$lang_module['reddayReset'] = 'hủy bỏ';
